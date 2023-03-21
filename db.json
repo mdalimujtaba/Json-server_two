@@ -1,11 +1,9 @@
 {
   "users": [
     {
-      "email": "mdalimujtaba@gmail.com",
-      "password": "1234"
-    },
-    {
-      "email": "vikas@gmail.com",
+      "id": 1,
+      "username": "Mujtaba",
+      "email": "mujtaba@gmail.com",
       "password": "1234"
     }
   ],
